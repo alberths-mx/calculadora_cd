@@ -1,5 +1,4 @@
-# calculadora_cd
-Calculadora de Ciencias de Datos
+## Calculadora de Ciencias de Datos
 
 ## Este proyecto es una calculadora desarrollada 100% en Python + Streamlit, diseñada como práctica para estudiantes de Ciencia de Datos. La aplicación permite realizar operaciones matemáticas, estadísticas, gráficas, procesamiento de imágenes en un entorno sencillo y visual.
 
